@@ -14,7 +14,7 @@ export default {
   data(){
     return{
         
-        copyRtSymbol:'&copy;BT3103'
+        copyRtSymbol:'&copy;BT3100000003'
         }
   }
 }
